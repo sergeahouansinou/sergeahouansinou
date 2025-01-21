@@ -52,3 +52,12 @@ When I'm not coding, you can find me:
 - Exploring new recipes in the kitchen 🍳
 - Playing strategy games ♟️
 - Learning about space and technology 🚀  
+
+---
+
+## 🌟 Featured Project
+
+<p align="center">
+  <img src="https://eguardimmo.com/assets/img/app/header_4.avif" alt="Featured Project" width="80%" />
+</p>
+<p align="center"><b>eGuardImmo</b></p>
