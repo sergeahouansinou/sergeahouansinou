@@ -38,7 +38,6 @@ I’d love to collaborate on:
 ## 📫 How to Reach Me
 - **Email:** [sahouansinou@gmail.com](mailto:sahouansinou@gmail.com)  
 - **LinkedIn:** [https://www.linkedin.com/in/serge-ahouansinou/](https://www.linkedin.com/in/serge-ahouansinou/) 
-- **1 - Online Project:** [https://eguardimmo.com/](https://eguardimmo.com) 
 
 ---
 
@@ -60,4 +59,4 @@ When I'm not coding, you can find me:
 <p align="center">
   <img src="https://eguardimmo.com/assets/img/app/header_4.avif" alt="Featured Project" width="80%" />
 </p>
-<p align="center"><b>eGuardImmo</b></p>
+<p align="center"><b>eGuardImmo</b> <br/> https://eguardimmo.com  </p>
