@@ -10,10 +10,10 @@
 
 I'm a passionate **full-stack developer** with expertise in building scalable web and mobile applications. As a **Laravel developer**, I create robust backends; with **Next.js** and **React.js**, I craft dynamic frontends; and using **Flutter**, I develop cross-platform mobile apps. Based in [Votre Localisation, ex. Benin], I turn ideas into high-performance solutions for startups and enterprises. Let's collaborate on your next project!
 
-- **Portfolio Website**: [eguardimmo.com](https://eguardimmo.com) – Showcase of my **Laravel** and **Flutter** projects.
-- **Email**: [serge.ahouansinou@example.com](mailto:serge.ahouansinou@example.com)
+- **Portfolio Website**: [sergeahouansinou.netlify.com]](https://sergeahouansinou.netlify.app/) – Showcase of my **Laravel** and **Flutter** projects.
+- **Email**: [sahouansinou@example.com](mailto:sahouansinou@gmail.com)
 - **LinkedIn**: [linkedin.com/in/sergeahouansinou](https://linkedin.com/in/sergeahouansinou)
-- **Twitter/X**: [@sergeahouansinou](https://twitter.com/sergeahouansinou)
+- **Twitter/X**: [@sergeahs](https://twitter.com/sergeahs)
 
 ## 💡 My Core Skills: Laravel, Next.js, React.js, Flutter Expert
 
@@ -30,9 +30,6 @@ Other skills: PHP, JavaScript, TypeScript, Vue.js, Node.js, GraphQL, MySQL, Redi
 
 - **[eGuardImmo](https://eguardimmo.com)**: A real estate platform built with **Laravel** backend, **React.js** frontend, and **Flutter** mobile app. Features user auth, property listings, and real-time updates.
 - **[Laravel Exception Tracker](https://github.com/sergeahouansinou/laravel-exception-tracker)**: Open-source **Laravel** package for error monitoring – perfect for **Laravel developers** seeking self-hosted solutions.
-- **[Next.js Portfolio App](https://github.com/sergeahouansinou/nextjs-portfolio)**: (Hypothetical/Add if exists) A personal site using **Next.js** with SSR, API routes, and **React.js** components for optimal SEO.
-- **[Flutter E-Commerce App](https://github.com/sergeahouansinou/flutter-ecommerce)**: (Hypothetical/Add if exists) Cross-platform app with **Flutter**, integrated with **Laravel** API for shopping features.
-- **[React.js Admin Dashboard](https://github.com/sergeahouansinou/react-admin)**: Forked and customized from nest-admin, using **React.js** for dynamic interfaces.
 
 Explore all my repos: [github.com/sergeahouansinou](https://github.com/sergeahouansinou?tab=repositories)
 
