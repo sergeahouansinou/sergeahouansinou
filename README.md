@@ -2,8 +2,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/sergeahouansinou?style=social)](https://github.com/sergeahouansinou?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/sergeahouansinou?style=social)](https://github.com/sergeahouansinou?tab=repositories)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sergeahouansinou?style=social)](https://twitter.com/sergeahouansinou)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeahouansinou&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergeahouansinou&theme=radical)
 ## 🛠️ About Me: Full-Stack Developer Specializing in Laravel, Next.js, React.js, and Flutter
 I'm a passionate **full-stack developer** with expertise in building scalable web and mobile applications. As a **Laravel developer**, I create robust backends; with **Next.js** and **React.js**, I craft dynamic frontends; and using **Flutter**, I develop cross-platform mobile apps. Based in Benin, I turn ideas into high-performance solutions for startups and enterprises. Let's collaborate on your next project!
 - **Portfolio Website**: [sergeahouansinou.netlify.com](https://sergeahouansinou.netlify.app/) – Showcase of my **Laravel** and **Flutter** projects.
