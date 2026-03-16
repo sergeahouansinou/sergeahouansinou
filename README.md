@@ -29,12 +29,6 @@ Here are the logos and links to my applications available on the Google Play Sto
 
 (Note: If you have the clean icon URL, replace the above with it for a better display. This is a banner image containing the logo.)
 
-## 👀 Interests & Contributions
-As a **Laravel, Next.js, React.js, and Flutter developer**, I'm passionate about:
-- Open-source **Flutter app development** and **React.js** libraries.
-- Optimizing **Next.js** for SEO and performance.
-- Contributing to **Laravel** ecosystems (e.g., packages, forks like bolt.diy).
-I've contributed to various commits across projects. Check my activity: ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergeahouansinou&show_icons=true&theme=radical)
 ## 🌱 Currently Learning
 - Advanced **Next.js** features like App Router and Vercel deployment.
 - **React.js** with Hooks and Context API for complex apps.
