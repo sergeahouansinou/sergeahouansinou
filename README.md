@@ -5,7 +5,7 @@
 ## 🛠️ About Me: Full-Stack Developer Specializing in Laravel, Next.js, React.js, and Flutter
 I'm a passionate **full-stack developer** with expertise in building scalable web and mobile applications. As a **Laravel developer**, I create robust backends; with **Next.js** and **React.js**, I craft dynamic frontends; and using **Flutter**, I develop cross-platform mobile apps. Based in Benin, I turn ideas into high-performance solutions for startups and enterprises. Let's collaborate on your next project!
 - **Portfolio Website**: [sergeahouansinou.netlify.com](https://sergeahouansinou.netlify.app/) – Showcase of my **Laravel** and **Flutter** projects.
-- **Email**: [sahouansinou@example.com](mailto:sahouansinou@gmail.com)
+- **Email**: [sahouansinou@gmail.com](mailto:sahouansinou@gmail.com)
 - **LinkedIn**: [linkedin.com/in/sergeahouansinou](https://linkedin.com/in/sergeahouansinou)
 - **Twitter/X**: [@sergeahs](https://twitter.com/sergeahs)
 ## 💡 My Core Skills: Laravel, Next.js, React.js, Flutter Expert
