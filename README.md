@@ -20,15 +20,6 @@ Other skills: PHP, JavaScript, TypeScript, Vue.js, Node.js, GraphQL, MySQL, Redi
 - **[Laravel Exception Tracker](https://github.com/sergeahouansinou/laravel-exception-tracker)**: Open-source **Laravel** package for error monitoring – perfect for **Laravel developers** seeking self-hosted solutions.
 Explore all my repos: [github.com/sergeahouansinou](https://github.com/sergeahouansinou?tab=repositories)
 
-## 📱 My Play Store Apps
-Here are the logos and links to my applications available on the Google Play Store:
-
-- **[eGuardImmo - Rental management](https://play.google.com/store/apps/details?id=serge.ahouansinou.eguardimmo)**: An all-in-one app for property management, including tenant monitoring, lease contracts, and automated receipts.
-
-![eGuardImmo Logo](https://i.ytimg.com/vi/4L7u93Rqm4c/hqdefault.jpg)
-
-(Note: If you have the clean icon URL, replace the above with it for a better display. This is a banner image containing the logo.)
-
 ## 🌱 Currently Learning
 - Advanced **Next.js** features like App Router and Vercel deployment.
 - **React.js** with Hooks and Context API for complex apps.
@@ -39,9 +30,11 @@ Here are the logos and links to my applications available on the Google Play Sto
 - **Flutter** mobile apps for startups.
 - Open-source contributions in **Next.js, React.js, Flutter, Laravel**.
 - Freelance gigs: Contact me for **full-stack development** services.
+  
 ## 📫 How to Reach Me
 DM on GitHub, email, or LinkedIn. Let's build something amazing with **Laravel, Next.js, React.js, and Flutter**!
 ## 😄 Pronouns: He/Him
+
 ## ⚡ Fun Fact
 When not coding **Laravel** APIs or **Flutter** apps, I'm cooking recipes, playing strategy games, or exploring space tech 🚀.
 ---
