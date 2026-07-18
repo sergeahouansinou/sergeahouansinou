@@ -7,7 +7,6 @@ I'm a passionate **full-stack developer** with expertise in building scalable we
 - **Portfolio Website**: [sergeahouansinou.vercel.app](https://sergeahouansinou.vercel.app/) – Showcase of my **Laravel** and **Flutter** projects.
 - **Email**: [sahouansinou@gmail.com](mailto:sahouansinou@gmail.com)
 - **LinkedIn**: [linkedin.com/in/sergeahouansinou](https://linkedin.com/in/sergeahouansinou)
-- **Twitter/X**: [@sergeahs](https://twitter.com/sergeahs)
 ## 💡 My Core Skills: Laravel, Next.js, React.js, Flutter Expert
 I specialize in modern tech stacks for seamless development:
 - **Laravel Developer**: Building secure APIs, authentication systems (e.g., [laravel-11-auth repo](https://github.com/sergeahouansinou/laravel-11-auth)), and exception tracking ([laravel-exception-tracker](https://github.com/sergeahouansinou/laravel-exception-tracker)).
