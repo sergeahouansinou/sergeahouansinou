@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/sergeahs?style=social)](https://twitter.com/sergeahs)
 ## 🛠️ About Me: Full-Stack Developer Specializing in Laravel, Next.js, React.js, and Flutter
 I'm a passionate **full-stack developer** with expertise in building scalable web and mobile applications. As a **Laravel developer**, I create robust backends; with **Next.js** and **React.js**, I craft dynamic frontends; and using **Flutter**, I develop cross-platform mobile apps. Based in Benin, I turn ideas into high-performance solutions for startups and enterprises. Let's collaborate on your next project!
-## 💡 My Core Skills: Laravel, Next.js, React.js, Flutter Expert
+## 💡 My Core Skills: Laravel, Nest.js, Next.js, React.js, Vue.js Flutter Expert
 I specialize in modern tech stacks for seamless development:
 - **Laravel Developer**: Building secure APIs, authentication systems (e.g., [laravel-11-auth repo](https://github.com/sergeahouansinou/laravel-11-auth)), and exception tracking ([laravel-exception-tracker](https://github.com/sergeahouansinou/laravel-exception-tracker)).
 - **Next.js Expert**: Server-side rendering, static sites, and SEO-optimized apps with **Next.js** for fast web experiences.
