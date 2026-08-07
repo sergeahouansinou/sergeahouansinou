@@ -1,37 +1,4 @@
-## 👋 Hi, I’m Serge AHOUANSINOU - Expert Laravel, Next.js, React.js & Flutter Developer
+## 👋 Hi, I’m Serge AHOUANSINOU - Expert Laravel/Nest.js, React.js/React.js & Flutter Developer
 [![GitHub followers](https://img.shields.io/github/followers/sergeahouansinou?style=social)](https://github.com/sergeahouansinou?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/sergeahouansinou?style=social)](https://github.com/sergeahouansinou?tab=repositories)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sergeahs?style=social)](https://twitter.com/sergeahs)
-## 🛠️ About Me: Full-Stack Developer Specializing in Laravel, Next.js, React.js, and Flutter
-I'm a passionate **full-stack developer** with expertise in building scalable web and mobile applications. As a **Laravel developer**, I create robust backends; with **Next.js** and **React.js**, I craft dynamic frontends; and using **Flutter**, I develop cross-platform mobile apps. Based in Benin, I turn ideas into high-performance solutions for startups and enterprises. Let's collaborate on your next project!
-## 💡 My Core Skills: Laravel, Nest.js, Next.js, React.js, Vue.js Flutter Expert
-I specialize in modern tech stacks for seamless development:
-- **Laravel Developer**: Building secure APIs, authentication systems (e.g., [laravel-11-auth repo](https://github.com/sergeahouansinou/laravel-11-auth)), and exception tracking ([laravel-exception-tracker](https://github.com/sergeahouansinou/laravel-exception-tracker)).
-- **Next.js Expert**: Server-side rendering, static sites, and SEO-optimized apps with **Next.js** for fast web experiences.
-- **React.js Full-Stack**: Interactive UIs, state management, and component-based architecture using **React.js** integrated with backends.
-- **Flutter App Development**: Cross-platform mobile apps with **Flutter** and Dart for iOS/Android, focusing on animations and performance.
-Other skills: PHP, JavaScript, TypeScript, Vue.js, Node.js, GraphQL, MySQL, Redis, Docker.
-## 📂 Featured Projects: Laravel, Next.js, React.js, Flutter Showcases
-- **[eGuardImmo](https://eguardimmo.com)**: A real estate platform built with **Laravel** backend, **React.js** frontend, and **Flutter** mobile app. Features user auth, property listings, and real-time updates.
-- **[Laravel Exception Tracker](https://github.com/sergeahouansinou/laravel-exception-tracker)**: Open-source **Laravel** package for error monitoring – perfect for **Laravel developers** seeking self-hosted solutions.
-Explore all my repos: [github.com/sergeahouansinou](https://github.com/sergeahouansinou?tab=repositories)
-
-## 🌱 Currently Learning
-- Advanced **Next.js** features like App Router and Vercel deployment.
-- **React.js** with Hooks and Context API for complex apps.
-- **Flutter** state management with Riverpod and animations.
-- **Laravel** microservices and API best practices.
-## 💞️ Looking to Collaborate On
-- **Laravel** backend projects with **React.js** or **Next.js** frontends.
-- **Flutter** mobile apps for startups.
-- Open-source contributions in **Next.js, React.js, Flutter, Laravel**.
-- Freelance gigs: Contact me for **full-stack development** services.
-  
-## 📫 How to Reach Me
-DM on GitHub, email, or LinkedIn. Let's build something amazing with **Laravel, Next.js, React.js, and Flutter**!
-## 😄 Pronouns: He/Him
-
-## ⚡ Fun Fact
-When not coding **Laravel** APIs or **Flutter** apps, I'm cooking recipes, playing strategy games, or exploring space tech 🚀.
----
-*Keywords: Laravel Developer, Next.js Expert, React.js Full-Stack, Flutter App Development, Full-Stack Web Mobile Developer*
